@@ -1,8 +1,9 @@
 
 
-
-#comvertir de varias lineas 
-#notas: a la hora concatenar cadenas no es posible incluir en algunas ocaciones contenido que no sea del str
+"""
+comvertir de varias lineas 
+notas: a la hora concatenar cadenas no es posible incluir en algunas ocaciones contenido que no sea del str
+"""
 
 # concatenar un str con str 
 
@@ -45,3 +46,11 @@ print ("El numero es: " + str(int(suma)))
 
 print(F"El numero : {suma}")
 
+# concatenar un float y float con float
+
+n1 = '23.34'
+n2 = '33.99' # es un float o un real 
+
+suma = float(n1)+float (n2)
+
+print(F"El numero : {suma}")

@@ -15,7 +15,7 @@ print("Mi nombre es: "+ nombre + " estoy en la especialidad de " +  especialidad
 
 print ("\n")
 
-#3er forma de contatenar la FORMA MAS COMUN
+#3er forma de contatenar
 print(f"Mi nombre es:  {nombre}  estoy en la especialidad de  {especialidad}  en laca carrera de  {carrera}")
 
 print ("\n")
