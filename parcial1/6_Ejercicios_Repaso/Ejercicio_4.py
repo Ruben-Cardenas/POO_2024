@@ -15,7 +15,6 @@ num_multi = num * num_2
 num_divi = num / num_2 
 
 print ("\n")
-
 print (f"el la suma de los dos numero es: {num_suma}") 
 print ("\n")
 print (f"el la resta de los dos numero es: {num_restra}")
