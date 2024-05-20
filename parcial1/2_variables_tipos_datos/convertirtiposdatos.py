@@ -31,7 +31,7 @@ notas: a la hora concatenar cadenas no es posible incluir en algunas ocaciones c
 n1 = '23'
 n2 = 33 
 
-suma = int(n1)+n2
+suma = int(n1)+n2 # int es entero 
 
 print ("El numero es: " + str(suma))
 
