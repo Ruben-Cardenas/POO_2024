@@ -7,6 +7,6 @@ continente = ("Europa")
 
 print (pais)
 print (continente ) 
- 
- 
- 
+
+X = 35
+
