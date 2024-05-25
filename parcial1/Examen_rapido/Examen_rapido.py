@@ -1,6 +1,5 @@
 # Resivo 
 
-
 precio_basico = 0.987
 precio_intermedio = 1.203
 
