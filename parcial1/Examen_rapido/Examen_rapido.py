@@ -22,3 +22,4 @@ print(f"Total a pagar por el recibo de la luz: ${total_a_pagar:.2f}")
 
 
 
+
