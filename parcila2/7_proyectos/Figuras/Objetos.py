@@ -1,6 +1,5 @@
 from Clases import *
 
-# Ejemplo de uso
 rectangulo = Rectangulo(largo=15, ancho=35)
 print("Área del rectángulo:", rectangulo.calcular_area())
 
