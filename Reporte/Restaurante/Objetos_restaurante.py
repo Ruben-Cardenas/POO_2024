@@ -1,4 +1,4 @@
-from clases_restaurante import *
+from Reporte.Restaurante.clases_restaurante import *
 print("\n")
 # Desayuno 1
 desayuno1 = Desayuno("Desayuno Americano", 30, ["Huevos", "Tocino", "Pan"], "Frutas frescas", "Aperitivo")
